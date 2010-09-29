@@ -1,0 +1,14 @@
+
+### Quartz Composer Plugin: String From Xpath
+
+Short-cut for xml import / structure key member navigation.
+
+Currently only pulls out one xpath expression.
+
+Only tried building and running on 10.6 intel, but should work elsewhere.
+
+To build:
+
+* open in Xcode (3.2)
+* use target => build & copy => <right-click> => build & copy & start.
+
